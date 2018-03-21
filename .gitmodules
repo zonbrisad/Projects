@@ -1,0 +1,15 @@
+[submodule "Debugsock"]
+	path = Debugsock
+	url = https://github.com/zonbrisad/Debugsock.git
+[submodule "bashplates"]
+	path = bashplates
+	url = https://github.com/zonbrisad/bashplates.git
+[submodule "pyplate"]
+	path = pyplate
+	url = https://github.com/zonbrisad/pyplate.git
+[submodule "mTerm"]
+	path = mTerm
+	url = https://github.com/zonbrisad/mTerm.git
+[submodule "makeplates"]
+	path = makeplates
+	url = https://github.com/zonbrisad/makeplates.git
