@@ -13,3 +13,15 @@
 [submodule "makeplates"]
 	path = makeplates
 	url = https://github.com/zonbrisad/makeplates.git
+[submodule "pmg_settings"]
+	path = pmg_settings
+	url = https://github.com/zonbrisad/pmg_settings.git
+[submodule "luaconf"]
+	path = luaconf
+	url = https://github.com/zonbrisad/luaconf.git
+[submodule "Tester"]
+	path = Tester
+	url = https://github.com/zonbrisad/Tester.git
+[submodule "LEF"]
+	path = LEF
+	url = https://github.com/zonbrisad/LEF.git
